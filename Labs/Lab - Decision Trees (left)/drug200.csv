@@ -1,0 +1,11 @@
+--2022-05-17 09:16:01--  https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv
+Resolving cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)... 169.45.118.108
+Connecting to cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)|169.45.118.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5827 (5.7K) [text/csv]
+Saving to: 'drug200.csv.1'
+
+     0K .....                                                 100% 2.47G=0s
+
+2022-05-17 09:16:03 (2.47 GB/s) - 'drug200.csv.1' saved [5827/5827]
+
